@@ -19,6 +19,9 @@ If time permits, Tentative Path: Follow Textbook *Operating System Concepts* <br
 * [Silberschatz-2013-Operating System Concepts](https://raw.githubusercontent.com/philipzhux/summerlearning/main/Silberschatz-2013-Operating%20System%20Concepts.pdf)
 * [Love-2010-Linux Kernel Development](https://raw.githubusercontent.com/philipzhux/summerlearning/main/Love-2010-Linux%20Kernel%20Development.pdf)
 
+## Learning Schedule
+To be decided after final exam.
+
 ## Supplementary Materials
 * [LeetCode 101 - A LeetCode Grinding Guide (C++ Version)](https://github.com/changgyhub/leetcode_101/raw/master/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C%2B%2B%20Version).pdf)
 * [LeetCode Full Solutions](https://github.com/soulmachine/leetcode/raw/master/C%2B%2B/leetcode-cpp.pdf)
