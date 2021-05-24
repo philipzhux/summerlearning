@@ -20,8 +20,10 @@ If time permits, Tentative Path: Follow Textbook *Operating System Concepts* <br
 * [Love-2010-Linux Kernel Development](https://raw.githubusercontent.com/philipzhux/summerlearning/main/Love-2010-Linux%20Kernel%20Development.pdf)
 
 ## Learning Schedule
-To be decided after final exam.
-
+**Latest progress: Currently @CSAPP Chapter 8 by May 25**
+✅ Finished on May 22: CSAPP Chapter 7 Linker <br>
+✅ Finished during May 23-25: CSAPP Chapter 8 ECF (Exceptions, Processes Control, Signals, etc.) <br>
+⏺ On Process on May 25: **Lab 8 Shell Lab** [Instructions](https://raw.githubusercontent.com/yyqian/csapp-labs/master/shelllab/shlab.pdf)
 ## Supplementary Materials
 * [LeetCode 101 - A LeetCode Grinding Guide (C++ Version)](https://github.com/changgyhub/leetcode_101/raw/master/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C%2B%2B%20Version).pdf)
 * [LeetCode Full Solutions](https://github.com/soulmachine/leetcode/raw/master/C%2B%2B/leetcode-cpp.pdf)
