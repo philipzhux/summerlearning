@@ -24,9 +24,9 @@ If time permits, Tentative Path: Follow Textbook *Operating System Concepts* <br
 ✅ Finished on May 22: CSAPP Chapter 7 Linker <br>
 ✅ Finished during May 23-25: CSAPP Chapter 8 ECF (Exceptions, Processes Control, Signals, etc.) <br>
 ✅ Finished during May 25-28: **Lab 8 Shell Lab** [Instructions](https://raw.githubusercontent.com/yyqian/csapp-labs/master/shelllab/shlab.pdf) | [Handout](https://raw.githubusercontent.com/philipzhux/summerlearning/main/shlab-handout.tar)<br>
-✅ Finished during June 1-2: Computer Networking Chapter 1: Overview
-✅ Finished during June 3-5: Computer Networking Chapter 2: Application Layer
-✅ Finished during June 15-21: Computer Networking Chapter 3: Tranport Layer (Principles, UDP and TCP protocol)
+✅ Finished during June 1-2: Computer Networking Chapter 1: Overview <br>
+✅ Finished during June 3-5: Computer Networking Chapter 2: Application Layer <br>
+✅ Finished during June 15-21: Computer Networking Chapter 3: Tranport Layer (Principles, UDP and TCP protocol) <br>
 ## Supplementary Materials
 * [LeetCode 101 - A LeetCode Grinding Guide (C++ Version)](https://github.com/changgyhub/leetcode_101/raw/master/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C%2B%2B%20Version).pdf)
 * [LeetCode Full Solutions](https://github.com/soulmachine/leetcode/raw/master/C%2B%2B/leetcode-cpp.pdf)
